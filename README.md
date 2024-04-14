@@ -28,6 +28,7 @@
 ![set_body-5](https://github.com/jienian/HomeBoxM8/assets/45189482/d49b001d-6d9b-4ab1-8da0-945918c32a3b)
 2.4屏幕设定
 ![set_sc-1](https://github.com/jienian/HomeBoxM8/assets/45189482/5857c0c8-3cb8-4425-99f7-c15e33b08069)
+2.4支持四种语言 ch\tw\ru\english
 3.测试协议
 ![set_tool-1](https://github.com/jienian/HomeBoxM8/assets/45189482/0a6d82fb-72d3-48b4-b070-32ff4ee6305d)
 4.video
