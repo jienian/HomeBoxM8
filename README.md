@@ -31,9 +31,12 @@
 2.5声效设定Main
 ![sound-2](https://github.com/jienian/HomeBoxM8/assets/45189482/ce9a43b0-796c-461f-9c09-d69aa41941d4)
 ![sound-3](https://github.com/jienian/HomeBoxM8/assets/45189482/5ad9d30b-eb02-4fc2-a3f9-2291059c9667)
-![sound-4](https://github.com/jienian/HomeBoxM8/assets/45189482/b4c65a74-933f-4d2f-8e10-816cea00e6e2)
-https://github.com/jienian/HomeBoxM8/assets/45189482/e57cef84-d579-4167-aa69-d9e6f03dbb4b
+![sound-4](
 
+video: https://github.com/jienian/HomeBoxM8/assets/45189482/d73c5b69-5a1b-44af-9489-c1fe9869a0e5
+video: https://github.com/jienian/HomeBoxM8/assets/45189482/b4c65a74-933f-4d2f-8e10-816cea00e6e2)
+
+https://github.com/jienian/HomeBoxM8/assets/45189482/e57cef84-d579-4167-aa69-d9e6f03dbb4b
 2.4支持四种语言 ch\tw\ru\english
 ![EN](https://github.com/jienian/HomeBoxM8/assets/45189482/cb5840d5-7eec-4708-8380-e6b9dde47b12)
 ![EN2](https://github.com/jienian/HomeBoxM8/assets/45189482/dc52d225-982f-48c6-99ff-c7f8f54471b0)
