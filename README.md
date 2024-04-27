@@ -1,4 +1,4 @@
-# 一.广汽home
+# 一.广汽home 车载娱乐系统盒子
 1.1![M8Home_Cars](https://github.com/jienian/HomeBoxM8/assets/45189482/74c316dd-e37f-45ce-92c8-1f1203f4851a)
 
 # 1.2.home
@@ -10,7 +10,7 @@
 # 1.2.4.home
 ![M8home_2](https://github.com/jienian/HomeBoxM8/assets/45189482/2199472e-3c04-4d90-ad65-940d0787e2b3)
 
-#二.设置App
+#二.原车信息设置App
 2.1 ADIGO智能驾驶Main
 ![set_adigo-1](https://github.com/jienian/HomeBoxM8/assets/45189482/d5e3ba60-7409-4ed2-af50-e93d0976eaba)
 ![set_adigo-2](https://github.com/jienian/HomeBoxM8/assets/45189482/ed8637a5-772c-4af6-81ca-ba6c816ef062)
@@ -31,16 +31,19 @@
 2.5声效设定Main
 ![sound-2](https://github.com/jienian/HomeBoxM8/assets/45189482/ce9a43b0-796c-461f-9c09-d69aa41941d4)
 ![sound-3](https://github.com/jienian/HomeBoxM8/assets/45189482/5ad9d30b-eb02-4fc2-a3f9-2291059c9667)
-![sound-4](
+![sound-4](https://github.com/jienian/HomeBoxM8/assets/45189482/527b4163-3f15-48ae-89d4-3af53fd092c9)
 
 video: https://github.com/jienian/HomeBoxM8/assets/45189482/d73c5b69-5a1b-44af-9489-c1fe9869a0e5
 
 video2: 
 https://github.com/jienian/HomeBoxM8/assets/45189482/756ce37b-e3c8-495d-bb45-c88afdd908fa
 
+2.6 Heart
+![heart-1](https://github.com/jienian/HomeBoxM8/assets/45189482/9379b133-28ec-4dc5-88e3-6cbda88dce05)
+![heart-2](https://github.com/jienian/HomeBoxM8/assets/45189482/fc6ba746-a987-4898-8c02-77c15621f1b3)
+![heart-3](https://github.com/jienian/HomeBoxM8/assets/45189482/7805bc22-bb49-4ec6-a9e4-8e62ce67d568)
 
-
-2.4支持四种语言 ch\tw\ru\english
+2.7支持四种语言 ch\tw\ru\english
 ![EN](https://github.com/jienian/HomeBoxM8/assets/45189482/cb5840d5-7eec-4708-8380-e6b9dde47b12)
 ![EN2](https://github.com/jienian/HomeBoxM8/assets/45189482/dc52d225-982f-48c6-99ff-c7f8f54471b0)
 ![EN3](https://github.com/jienian/HomeBoxM8/assets/45189482/ae879e3f-2af1-40b5-a57f-57541a7f2ac0)
