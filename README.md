@@ -34,7 +34,11 @@
 ![sound-4](
 
 video: https://github.com/jienian/HomeBoxM8/assets/45189482/d73c5b69-5a1b-44af-9489-c1fe9869a0e5
-video: https://github.com/jienian/HomeBoxM8/assets/45189482/b4c65a74-933f-4d2f-8e10-816cea00e6e2)
+
+video2: 
+https://github.com/jienian/HomeBoxM8/assets/45189482/756ce37b-e3c8-495d-bb45-c88afdd908fa
+
+
 
 2.4支持四种语言 ch\tw\ru\english
 ![EN](https://github.com/jienian/HomeBoxM8/assets/45189482/cb5840d5-7eec-4708-8380-e6b9dde47b12)
